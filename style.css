@@ -101,5 +101,6 @@ a img{
 @media(max-width:600px){
     body{
         zoom:47%;
+        font-size:18px;
     }
 }

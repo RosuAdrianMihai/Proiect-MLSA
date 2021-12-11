@@ -97,3 +97,8 @@ a img{
     font-size:16px;
     font-weight:550;
 }
+@media(max-width:600px){
+    body{
+        zoom:47%;
+    }
+}

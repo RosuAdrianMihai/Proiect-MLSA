@@ -103,4 +103,12 @@ a img{
         zoom:47%;
         font-size:18px;
     }
+    
+    #left{
+        margin-left:58px;
+    }
+    
+    .linie{
+        height:520px;
+    }
 }
